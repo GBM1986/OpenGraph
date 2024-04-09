@@ -23,7 +23,7 @@ function App() {
     return <p>Error: {error}</p>;
   }
 
-  console.log(planets)
+  console.log(lanets)
 
   return (
     <>
